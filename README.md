@@ -49,7 +49,12 @@
 </p>
 
 ---
+## 🐍 Snake de contribuciones
 
+<p align="center">
+  <img src="https://github.com/charlie404x/charlie404x/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+---
 <!-- ## 📂 Proyectos Destacados
 
 - 📌 **Nombre del Proyecto 1**  
