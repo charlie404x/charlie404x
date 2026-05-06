@@ -36,8 +36,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlie404x&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie404x&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlie404x&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie404x&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://github.com/charlie404x/charlie404x/blob/output/github-contribution-grid-snake.svg"/>
 </p>
----
+
 <!-- ## 📂 Proyectos Destacados
 
 - 📌 **Nombre del Proyecto 1**  
