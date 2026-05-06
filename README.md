@@ -8,14 +8,14 @@
 
 ## 🚀 Sobre mí
 
-<img align="right" width="260px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
+<img align="right" width="300px" src="https://media1.tenor.com/m/uE7oJ57r9sgAAAAd/rick-sanchez-rick-and-morty.gif"/>
 
-🎓 Estudiante de **Ingeniería de Software** en la **UPC**  
-💻 Enfocado en el desarrollo **Frontend**  
-🌐 Apasionado por crear interfaces modernas y funcionales  
-📚 En constante aprendizaje de nuevas tecnologías  
-🧠 Interesado en buenas prácticas y código limpio  
-🤝 Abierto a colaborar en proyectos y experiencias reales  
+##### 🎓 Estudiante de Ingeniería de Software en la UPC  
+##### 💻 Enfocado en el desarrollo Frontend  
+##### 🌐 Apasionado por crear interfaces modernas y funcionales  
+##### 📚 En constante aprendizaje de nuevas tecnologías  
+##### 🧠 Interesado en buenas prácticas y código limpio  
+##### 🤝 Abierto a colaborar en proyectos y experiencias reales  
 
 
 ## 🛠️ Tech Stack
