@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300D4FF&size=24&center=true&vCenter=true&width=700&height=100&lines=Estudiante+de+Ingeniería+de+Software;Frontend+Developer+en+formación;Apasionado+por+la+tecnología;Construyendo+experiencia+en+el+desarrollo+web">
 </p>
 
----
+
 
 ## 🚀 Sobre mí
 
@@ -17,7 +17,6 @@
 🧠 Interesado en buenas prácticas y código limpio  
 🤝 Abierto a colaborar en proyectos y experiencias reales  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,git,vscode,github" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -39,9 +38,8 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlie404x&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charlie404x&layout=compact&theme=tokyonight"/>
 </p>
-</p>
 
----
+
 
 ## 🔥 Racha de contribuciones
 
@@ -49,7 +47,7 @@
   <img src="https://streak-stats.demolab.com/?user=charlie404x&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+
 
 ## 🐍 Snake de contribuciones
 
@@ -57,7 +55,6 @@
   <img src="https://github.com/charlie404x/charlie404x/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
 
 ## 📈 Objetivos 2026
 
@@ -67,7 +64,7 @@
 ✔️ Mejorar en estructuras de datos y lógica  
 ✔️ Contribuir a proyectos open source  
 
----
+
 
 ## 🌐 Conecta conmigo
 
@@ -83,7 +80,7 @@
   </a>
 </p>
 
-<!-- ---
+<!-- 
 
 ## 💡 Frase del día
 
