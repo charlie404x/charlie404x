@@ -33,12 +33,11 @@
 </p>
 
 ---
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlie404x&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie404x&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -46,7 +45,7 @@
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=charlie404x&theme=tokyonight" />
 </p>
 
 ---
